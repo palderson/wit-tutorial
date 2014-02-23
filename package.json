@@ -1,0 +1,7 @@
+{
+  "name": "wit-tutorial",
+  "description": "wit app tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": { "futures": ">=2.1.0" }
+}
